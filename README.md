@@ -1,4 +1,3 @@
-# mini-project
 # Disease Prediction System
 
 This project is a Flask-based web application for predicting diseases based on user-inputted symptoms. The system uses a pre-trained Support Vector Classifier (SVC) machine learning model and provides additional details about the predicted disease, including precautions, medications, recommended diets, and workouts.
